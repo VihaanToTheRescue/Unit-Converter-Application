@@ -52,7 +52,7 @@ pip install pyqt5
 Once you’re all set, just run the app like this:
 
 ```bash
-python unit_converter.py
+python unit-converter-application.py
 ```
 
 And voilà! Your unit-converting journey begins. It’s like stepping into a world where units no longer confuse you (well, most of the time).
