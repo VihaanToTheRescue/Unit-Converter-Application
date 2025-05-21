@@ -32,7 +32,7 @@ If you’ve ever tried converting kilometers to miles and then ended up just Goo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/unit-converter.git
+git clone https://github.com/VihaanToTheRescue/unit-converter-application.git
 ```
 
 (If you don’t know how to do this, don’t worry. Google it. You’ll feel like a wizard after.)
